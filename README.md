@@ -1,4 +1,6 @@
 # CurlThin #
+
+[![Join the chat at https://gitter.im/CurlThin/Lobby](https://badges.gitter.im/CurlThin/Lobby.svg)](https://gitter.im/CurlThin/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Nuget](https://img.shields.io/nuget/v/CurlThin.svg)](https://www.nuget.org/packages/CurlThin/)
 
 _CurlThin_ is a NET Standard compatible binding library against [libcurl](http://curl.haxx.se/libcurl).
